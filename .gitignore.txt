@@ -1,1 +1,1 @@
-#do not take the doc file*.doc
+#do not take the doc filetext.doc
